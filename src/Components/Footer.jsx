@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/logoferresmart.png";
+import logo from "../img/logoferresmart.png";
 import { BsTwitter } from "react-icons/bs";
 import { SiLinkedin } from "react-icons/si";
 import { BsYoutube } from "react-icons/bs";

@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePic from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/istockphoto-1226886130-612x612.jpg";
+import ProfilePic from "../img/istockphoto-1226886130-612x612.jpg";
 import { AiFillStar } from "react-icons/ai";
 
 const Testimonials = () => {

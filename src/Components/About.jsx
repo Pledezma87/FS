@@ -1,6 +1,6 @@
 import React from 'react';
-import AboutBackground from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/background.webp";
-import AboutBackgroundImage from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/tools.jpeg";
+import AboutBackground from "../img/background.webp";
+import AboutBackgroundImage from "../img/tools.jpeg";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 
 

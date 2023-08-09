@@ -1,7 +1,7 @@
 import React from "react";
-import PickTool from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/logoferresmart.png";
-import ChooseArea from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/logoferresmart.png";
-import PickUpOrDelivery from "/Users/pabloledezma/Desktop/ProyectoFs/front/src/img/logoferresmart.png";
+import PickTool from "../img/logoferresmart.png";
+import ChooseArea from "../img/logoferresmart.png";
+import PickUpOrDelivery from "../img/logoferresmart.png";
 
 const Work = () => {
   const workInfoData = [
