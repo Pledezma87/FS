@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import BannerImage from "../img/delivery.jpeg";
 import BannerBackground from "../img/background.webp";
 import { FiArrowRight } from "react-icons/fi";
-
+//hola que tal?
 const Home = () => {
   return (
     <div className="home-container">
@@ -14,7 +14,7 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-          "Herramientas para cada tarea, ¡Ferresmart entrega!
+          "Herramientas para cada tarea, ¡Ferresmart entrega hola!
           </h1>
           <p className="primary-text">
 
