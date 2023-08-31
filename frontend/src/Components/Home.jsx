@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import BannerImage from "../img/delivery.jpeg";
 import BannerBackground from "../img/background.webp";
 import { FiArrowRight } from "react-icons/fi";
-//hola que tal?
+
 const Home = () => {
   return (
     <div className="home-container">
